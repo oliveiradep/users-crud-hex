@@ -1,12 +1,12 @@
 # users-crud-hex
 Spring Framework with Maven and Hexagonal Architecture
 
-# Local
+# Technologies
 Docker  
 MongoDB  
 Postman
 
-# MS
+# Microservice Specification
 
 **request body**
 
