@@ -1,7 +1,8 @@
 # users-crud-hex
-Spring Framework with Maven and Hexagonal Architecture
+Hexagonal architecture applied with a simple CRUD microservice
 
 # Technologies
+Spring Boot  
 Docker  
 MongoDB  
 Postman
