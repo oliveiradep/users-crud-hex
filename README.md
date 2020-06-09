@@ -23,7 +23,7 @@ Postman
 - fullName;  
 - age.  
 
-**rules**
+**requirements**
 
 - email is mandatory and exclusive;
 - users under the age of 30 cannot be excluded.
